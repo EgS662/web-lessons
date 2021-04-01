@@ -1,0 +1,222 @@
+.h1{
+    font-size: 50px;
+    line-height: 140px;
+    font-weight: 700;
+    text-align: center;
+    color:white;
+}
+.header{
+    position: absolute;
+    width: 2000px;
+    height: 300px;
+    background: #2071BC;
+    top: 0px;
+    left: 0px;
+}
+.ul{
+    display:inline-block;
+    margin-left: 250px;
+    color:white;
+    width: 140px;
+    height: 20px;
+    font-size: 25px;
+}
+.ul:hover{
+    color:white;
+    filter: drop-shadow(2.5px 4.33px 2.5px rgba(238, 234, 234, 0.88));
+    border: 2px solid #E5E5E5;
+    width: 137px;
+    height: 0px;
+}
+.main{
+    background-color: white;
+    width: 6000px;
+    height: 6000px;
+}
+.div{
+    position: absolute;
+    width: 300px;
+    height: 60px;
+    left: 150px;
+    top: 400px;
+    background: #2071BC;
+}
+.p{
+    color:white;
+    position: absolute;
+    width: 130px;
+    height: 28px;
+    margin-left: 87px;
+    margin-top: 15px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+}
+.div1{
+    position: absolute;
+    width: 300px;
+    height: 60px;
+    left: 150px;
+    top: 500px;
+    background: #2071BC;
+}
+.div2{
+    position: absolute;
+    width: 300px;
+    height: 60px;
+    left: 150px;
+    top: 600px;
+    background: #2071BC;
+}
+.div3{
+    position: absolute;
+    width: 300px;
+    height: 60px;
+    left: 150px;
+    top: 700px;
+    background: #2071BC;
+}
+.div:hover{
+    filter: drop-shadow(2.5px 4.33px 2.5px rgba(120, 120, 120, 0.88));
+}
+.div1:hover{
+    filter: drop-shadow(2.5px 4.33px 2.5px rgba(120, 120, 120, 0.88));
+}
+.div2:hover{
+    filter: drop-shadow(2.5px 4.33px 2.5px rgba(122, 120, 120, 0.88));
+}
+.div3:hover{
+    filter: drop-shadow(2.5px 4.33px 2.5px rgba(122, 120, 120, 0.88));
+}
+.h{
+    position: absolute;
+    width: 272px;
+    height: 40px;
+    left: 635px;
+    top: 345px;
+    font-size: 17px;
+}
+.l{
+    position: absolute;
+    left: 635px;
+    top: 425px;
+    font-size: 25px;
+    line-height: 30px;
+}
+.footer{
+    position: absolute;
+    width: 2000px;
+    height: 700px;
+    left: 0px;
+    top: 1000px;
+    background: #2071BC;
+}
+.Contacts{
+    width: 137px;
+    height: 40px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.c{
+    margin-left: 150px;
+    color:white;
+    position: absolute;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+}
+.c1{
+    margin-left: 670px;
+    color:white;
+    position: absolute;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+}
+.c2{
+    margin-left: 1300px;
+    color:white;
+    position: absolute;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 50px;
+}
+.u{
+    position: absolute;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 35px;
+    color: #E5E5E5;
+    margin-top: 140px;
+    margin-left: 1300px;
+}
+.u1{
+    margin-left: 1300px;
+    margin-top: 170px;
+    position: absolute;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 35px;
+    color: #E5E5E5;
+}
+.u2{
+    margin-left: 1300px;
+    margin-top: 200px;
+    position: absolute;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 35px;
+    color: #E5E5E5;
+}
+.b{
+    margin-top: 140px;
+    position: absolute;
+    margin-left: 150px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 35px;
+    color: #E5E5E5;
+}
+.b1{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 35px;
+    color: #E5E5E5;
+    margin-top: 170px;
+    position: absolute;
+    margin-left: 150px;
+}
+.b2{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 35px;
+    color: #E5E5E5;
+    margin-top: 200px;
+    position: absolute;
+    margin-left: 150px;
+}
+.logo{
+    margin-left: 600px;
+    margin-top: 140px;
+    color:white;
+    position: absolute;
+    font-family: Roboto;
+    font-style: normal;
+    font-size: 25px;
+}
